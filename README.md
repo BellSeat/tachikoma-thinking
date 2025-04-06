@@ -3,6 +3,7 @@ A design vision for building AI that thinks and feels—via group theory, modula
 
 # Tachikoma Thinking: Toward Conscious AI Architecture
 
+![Diagram](/digram/a8eb74a7-a425-4a0f-968c-e6ddb7c3f350.png)
 > “Why throw darts in the dark, when we can model the forces that shape the throw?”
 
 This is not a chatbot. This is not an LLM wrapper. This is an early-stage blueprint for an AI system that thinks like a person: not through brute-force statistics, but through structure, feedback, and intuitive geometry.
